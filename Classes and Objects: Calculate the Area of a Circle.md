@@ -12,8 +12,12 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 
-Add code here
-
+     a=math.pi*num*num print(f"Areaof circle: {a:.2f}")
 ## Output
 
+![image](https://github.com/user-attachments/assets/9246993a-8c22-4a22-a52c-7fe256a74319)
+
+
 ## Result
+
+Thus, the program has been successfully executed.
